@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <script src="scripts/main.js" defer></script>
+    <link href="styles/style.css" rel="stylesheet">
+    <title>我的喜爱</title>
+  </head>
+  <body>
+    <h1>Chirdren</h1>
+    <img src="images/Wk.jpg" alt="My favorite catoon">
+    <p>最初观看在10年前，他的主要人物有</p>
+    <ul>
+      <li>主角</li>
+      <li>正派配角</li>
+      <li>反派配角</li>
+      <p>这是一部热血动漫</p>
+    </ul>
+    <p>如果你有兴趣，<a href="http://tv.sohu.com/s2013/dragonball/">可以点击观看</a></p>
+    <button>切换用户 </button>
+  </body>
+</html> 

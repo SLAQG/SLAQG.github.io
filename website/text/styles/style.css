@@ -1,0 +1,35 @@
+html {
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 10px;
+    /* Google fonts 输出的 CSS */
+    font-family: 'Ma Shan Zheng', cursive;
+  }
+  h1{
+      font-size: 60px;
+      text-align: ce0nter;
+  }
+  p,li{
+        font-size: 20px;  
+        line-height: 2;
+    letter-spacing: 1px;     
+  }
+  html {
+    background-color: #575c1c;
+  }
+body{
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  background-color:#a9aa9d ;
+
+
+}
+h1{
+  margin: 0;
+  text-shadow: 3px 3px 1px white;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
