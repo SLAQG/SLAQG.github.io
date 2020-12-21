@@ -1,1 +1,3 @@
 index.html
+main.js
+style.css
